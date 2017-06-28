@@ -9,4 +9,7 @@
 Sistema de asignacion de ticket de soporte para cada proyecto creado
 Administracion de usuarios, permisos, y roles a traves de middleware
 
+
+NOTA: Problemas con los seed (se soluciona modificando la hora de cada seedtable), adjunto la database para que se cree de manera manual, con un usuario administrador
+
 usuario administrador :   admin@gmail.com   --> contraseña = 123456
